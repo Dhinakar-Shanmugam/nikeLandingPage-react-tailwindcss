@@ -1,6 +1,6 @@
-# React + Vite
+# nikeLandingPage-react-tailwindcss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project uses React and Vite with HMR (Hot Module Replacement). Here’s a minimal setup to get React working in Vite with some ESLint rules.
 
 Currently, two official plugins are available:
 
