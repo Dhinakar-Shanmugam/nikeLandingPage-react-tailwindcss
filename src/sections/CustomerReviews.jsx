@@ -14,7 +14,7 @@ const CustomerReviews = () => {
         exceptional experiences with us.
         </p>
 
-  <div className='mt-24 flex sm:flex-col md:flex-row flex-1 justify-evenly items-center gap-14'>
+  <div className='mt-24 flex max-sm:flex-col md:flex-row flex-1 justify-evenly items-center gap-14'>
 
           
     <div className='flex justify-center items-center flex-col'>
